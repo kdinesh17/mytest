@@ -1,2 +1,3 @@
 # mytest
-# mytest
+## Simple C++ code
+## Some exampes
