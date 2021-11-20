@@ -1,3 +1,3 @@
 # mytest
 ## Simple C++ code
-## Some exampes
+## Some exampes in C++
